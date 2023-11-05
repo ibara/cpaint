@@ -10,6 +10,7 @@ Controls
 --------
 hjkl: move cursor
 c: change color
+f: fill
 s: save
 q: quit
 
